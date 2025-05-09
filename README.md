@@ -20,11 +20,11 @@ A full-stack Task Management App built using **Laravel 12 (API)** and **Vue 3** 
 ## 🧾 Table of Contents
 
 - [Clone the Project](#clone-the-project)
-- [Setup the Project](#setup-the-project)
+- [Setup the Project](#️setup-the-project)
 - [Run the Project](#run-the-project)
 - [API Documentation](#api-documentation)
 - [Run Tests](#run-tests)
-- [API Routes Overview](## 📌 API Routes Overview)
+- [API Routes Overview](#api-routes-overview)
 
 ---
 
